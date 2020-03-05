@@ -1,1 +1,1 @@
-# Probability-Distributions-with-R
+# Probability Distributions with R
