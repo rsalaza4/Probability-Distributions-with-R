@@ -1,6 +1,6 @@
 # Probability Distributions with R
 
-This repository contains R codes for developing and analyzing probability distributions.
+This repository contains R codes for developing and analyzing probability distributions for discrete and continuous variables.
 
 ## Requirements
 
